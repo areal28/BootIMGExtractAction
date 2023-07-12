@@ -6,7 +6,7 @@ on:
       rom_url:
         description: 'ROM 下载直链'
         required: true
-        default: 'https://drive.miwu04.icu/d/ROM/mido/crdroid/9.7%20hotfix/crDroidAndroid-13.0-20230711-mido-v9.7.zip'
+        default: 'https://No-Piracy.herokuapp.com/375955/AlphaDroid-13.0-20230702-mido-vanilla-v1.6.zip'
 
 
 jobs:
